@@ -1,6 +1,6 @@
 # Login_Logout_Automation_Testing_using_Cypress
 
-## Technology_used:
+## Technology used:
 - Cypress
 - Visual Studio Code
 - Javascript
