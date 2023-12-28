@@ -19,5 +19,8 @@ Version: 120.0.6099.130 (Official Build) (64-bit)
 - When the cypress modal is opened, select e2e testing
 - After that, press ctrl+s, check the process on the browser which is automated
 
-## Scenario:
-1. First visitng the link 
+## Scenario applied using automation:
+- First visitng the link :
+  ```https://opensource-demo.orangehrmlive.com/web/index.php/auth/login```
+- After that, login as a user using ```Username: Admin``` and ```Password: admin123```
+- Then, logout from the website 
