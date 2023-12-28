@@ -6,8 +6,8 @@
 - Javascript
   
 ## Test Environment:
-Browser: Google Chrome
-Version: 120.0.6099.130 (Official Build) (64-bit)
+- Browser: Google Chrome
+- Version: 120.0.6099.130 (Official Build) (64-bit)
 
 ## How to run this Project:
 - First clone this project
