@@ -14,8 +14,8 @@ Version: 120.0.6099.130 (Official Build) (64-bit)
 - Install node js from browser
 - Install Visual Studio Code from browser
 - After that, open the VS Code terminal and run ```npm init -y ``` 
-- After that, run `npm install cypress` in the terminal
-- Then run 'npx cypress open'
+- After that, run ```npm install cypress``` in the terminal
+- Then run ```npx cypress open```
 - When the cypress modal is opened, select e2e testing
 - After that, press ctrl+s, check the process on the browser which is automated
 
