@@ -21,6 +21,6 @@ Version: 120.0.6099.130 (Official Build) (64-bit)
 
 ## Scenarios applied using automation:
 - First visitng the link :
-  ```https://opensource-demo.orangehrmlive.com/web/index.php/auth/login```
+  https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 - After that, login as a user using ```Username: Admin``` and ```Password: admin123```
 - Then, logout from the website 
