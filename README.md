@@ -8,6 +8,7 @@
 ## Test Environment:
 - Browser: Google Chrome
 - Version: 120.0.6099.130 (Official Build) (64-bit)
+- OS: Windows 10
 
 ## How to run this Project:
 - First clone this project
